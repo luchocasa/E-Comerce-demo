@@ -1,0 +1,5 @@
+{
+  "/api/paypal/create-order/route": "app/api/paypal/create-order/route.js",
+  "/page": "app/page.js",
+  "/product/[id]/page": "app/product/[id]/page.js"
+}
